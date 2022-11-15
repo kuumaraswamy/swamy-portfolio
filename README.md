@@ -1,1 +1,1 @@
- swamy-portfolio website is live now : https://gentle-biscochitos-3ec500.netlify.app/
+ swamy-portfolio website is live now : https://friendly-starship-3def25.netlify.app/
