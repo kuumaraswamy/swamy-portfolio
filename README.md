@@ -1,1 +1,1 @@
- swamy-portfolio website is live now : https://friendly-starship-3def25.netlify.app/
+ swamy-portfolio website is live now : https://fluffy-starlight-6079c2.netlify.app/
